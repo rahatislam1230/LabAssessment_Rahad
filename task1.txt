@@ -1,0 +1,1 @@
+we gernerally use git to commit save a snapshot of changes in the repository it allows us to tract the repository history and revert it if need
